@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Qing Zhu is a graduate student major in Data Analytics in George Washington University
 ---
 
 #### <a name="currentposition"></a>current position
