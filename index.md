@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Qing Zhu's personal webpage
+description: Qing Zhu is a graduate student major in Data Analytics at George Washington University
 keywords: statistics, data analytics
 ---
 
