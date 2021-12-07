@@ -16,7 +16,7 @@ keywords: statistics, data analytics
 </div>
 
 ### <a name="greetings"></a>Welcome!
-        <img src="assets/pics/resized_qingzhu_logo.jpg" title="logo"/>
+        ![logo](/assets/pics/resized_qingzhu_logo.jpg)
 Welcome, guests! I'm Qing Zhu. I'm a graduate student major in Data Analytics, MS at George Washington University.
 
 
