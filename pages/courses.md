@@ -17,8 +17,6 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
-
 - CSCI6212 Design and Analysis of Algorithms
 - SEAS6401 Data Analytics Practicum
 - EMSE6574 Programming for Analytics
