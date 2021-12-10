@@ -16,8 +16,10 @@ keywords: statistics, data analytics
 </div>
 
 ### <a name="greetings"></a>Welcome!
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-Welcome, guests! I'm Qing Zhu. I'm a graduate student major in Data Analytics, MS at George Washington University.
+    <figure>
+        <img src="qingzhu_256x256.jpg" alt="logo" title="logo"/>
+    </figure>
+##### Welcome, guests! I'm Qing Zhu. I'm a graduate student major in Data Analytics, MS at George Washington University.
 
 
 ### <a name="Portfolio"></a>Portfolio
