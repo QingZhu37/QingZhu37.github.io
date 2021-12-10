@@ -18,8 +18,8 @@ description: Student's Courses
 ### <a name="current"></a>Current courses
 
 - CSCI6212 Design and Analysis of Algorithms
-- SEAS6401 Data Analytics Practicum
-- EMSE6574 Programming for Analytics
+- SEAS6401 Data Analytics Practicum [![github](icons16/github-icon.png)](https://github.com/QingZhu37/SEAS6401)
+- EMSE6574 Programming for Analytics [![github](icons16/github-icon.png)](https://github.com/QingZhu37/EMSE6574)
 
 ---
 
