@@ -26,7 +26,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/presentations.html">
-        <img src="pages/logo_EMSE6574.png" alt="logo_EMSE6574" title="logo_EMSE6574"/>
+        <img src="pages/logo_EMSE6574.png" alt="logo_EMSE6574" title="logo_EMSE6574" width="200"/>
     </a>
   </td>
 </tr>
