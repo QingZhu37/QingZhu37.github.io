@@ -25,8 +25,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/presentations.html">
+        <img src="pages/logo_EMSE6574.png" alt="logo_EMSE6574" title="logo_EMSE6574"/>
     </a>
   </td>
 </tr>
