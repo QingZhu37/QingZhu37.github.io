@@ -29,6 +29,12 @@ keywords: statistics, data analytics
         <img src="pages/logo_EMSE6574.png" alt="logo_EMSE6574" title="logo_EMSE6574" width="300"/>
     </a>
   </td>
+
+  <td class="right">
+    <a href="pages/presentations.html">
+        <img src="pages/logo_SEAS6401.png" alt="logo_SEAS6401" title="logo_SEAS6401" width="300"/>
+    </a>
+  </td>
 </tr>
 </table>
 
