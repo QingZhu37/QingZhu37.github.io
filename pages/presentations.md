@@ -10,6 +10,7 @@ description: Student's Presentations in Data Analytics
 #### SEAS 6401 Final Team Project: Analysit of USDX and ETFs
 <br/>
 Slides:[![pdf](icons16/pdf-icon.png)](https://github.com/QingZhu37/SEAS6401/blob/master/final_presentation.pdf)
+Report:[![pdf](icons16/pdf-icon.png)](https://github.com/QingZhu37/SEAS6401/blob/master/final_report.pdf)
 github:[![github](icons16/github-icon.png)](https://github.com/QingZhu37/SEAS6401) &nbsp; &nbsp; &nbsp; 
 <br/>
 
